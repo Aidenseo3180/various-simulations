@@ -1,9 +1,11 @@
 # various simulations
-All the simulations that I have implemented as part of ECE1180 - Computational Modeling & Simulation Engineering course.  
+Simulations that I have implemented as part of ECE1180 - Computational Modeling & Simulation Engineering course.  
+
+### About
 These simulations involve a high level of physics that follows a real-life patterns.  
 Each simulation consists of the code for the simulation, its descriptions, and the verification using real-life values.   
 For the visualization, VPython library has been used. For graphing, matplotlib has been used.  
-  
+
 ### List of Simulations  
 - A ball bouncing due to its elasticity  
 - Newton's cannonball that shows how a certain launch velocity would enable the ball to fully orbit around the Earth  
